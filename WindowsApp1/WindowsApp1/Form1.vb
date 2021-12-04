@@ -17,12 +17,10 @@
         'Пример ввода вдреса сервера: ftp://имясервера/
         Try
             My.Computer.Network.UploadFile(TextBox4.Text, TextBox1.Text & OpenFileDialog1.SafeFileName, TextBox2.Text, TextBox3.Text)
+            MsgBox("Файл успешно отправлен")
         Catch ex As Exception
             MsgBox("Ошибка, проверьте корректность введенных данных!!!")
         End Try
-        If My.Computer.Network.IsAvailable Then
-            MsgBox("Файл успешно отправлен")
-        End If
 
     End Sub
 
