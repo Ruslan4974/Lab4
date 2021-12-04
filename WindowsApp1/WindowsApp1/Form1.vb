@@ -15,8 +15,14 @@
 
         'путь к файлу, адрес сервера, имя файла на сервере, имя пользователя, пароль
         'Пример ввода вдреса сервера: ftp://имясервера/
-        My.Computer.Network.UploadFile(TextBox4.Text, TextBox1.Text & OpenFileDialog1.SafeFileName, TextBox2.Text, TextBox3.Text)
-        MsgBox("Файл успешно отправлен")
+        Try
+            My.Computer.Network.UploadFile(TextBox4.Text, TextBox1.Text & OpenFileDialog1.SafeFileName, TextBox2.Text, TextBox3.Text)
+        Catch ex As Exception
+            MsgBox("Ошибка, проверьте корректность введенных данных!!!")
+        End Try
+        If My.Computer.Network.IsAvailable Then
+            MsgBox("Файл успешно отправлен")
+        End If
 
     End Sub
 

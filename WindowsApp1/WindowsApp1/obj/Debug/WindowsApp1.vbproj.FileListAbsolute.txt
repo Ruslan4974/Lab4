@@ -33,3 +33,15 @@ C:\Users\rusli\OneDrive\Рабочий стол\Lab4-main\WindowsApp1\WindowsApp
 C:\Users\rusli\OneDrive\Рабочий стол\Lab4-main\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
 C:\Users\rusli\OneDrive\Рабочий стол\Lab4-main\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
 C:\Users\rusli\OneDrive\Рабочий стол\Lab4-main\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\rusli\OneDrive\Рабочий стол\Lab4\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\rusli\OneDrive\Рабочий стол\Lab4\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\rusli\OneDrive\Рабочий стол\Lab4\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\rusli\OneDrive\Рабочий стол\Lab4\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\rusli\OneDrive\Рабочий стол\Lab4\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\rusli\OneDrive\Рабочий стол\Lab4\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\rusli\OneDrive\Рабочий стол\Lab4\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\rusli\OneDrive\Рабочий стол\Lab4\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\rusli\OneDrive\Рабочий стол\Lab4\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\rusli\OneDrive\Рабочий стол\Lab4\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\rusli\OneDrive\Рабочий стол\Lab4\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\rusli\OneDrive\Рабочий стол\Lab4\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
