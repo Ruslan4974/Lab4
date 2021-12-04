@@ -15,8 +15,12 @@ Public Class Form1
 
         'путь к файлу, адрес сервера, имя файла на сервере, имя пользователя, пароль
         'Пример ввода вдреса сервера: ftp://имясервера/
-        My.Computer.Network.UploadFile(TextBox4.Text, TextBox1.Text & OpenFileDialog1.SafeFileName, TextBox2.Text, TextBox3.Text)
-        MsgBox("Файл успешно отправлен")
+    Try   
+         My.Computer.Network.UploadFile(TextBox4.Text, TextBox1.Text & OpenFileDialog1.SafeFileName, TextBox2.Text, TextBox3.Text)
+    Catch ex As Exception 
+        'Error happened 
+    End Try
+         MsgBox("Файл успешно отправлен")
 
     End Sub
 
